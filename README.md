@@ -15,7 +15,7 @@ The project also compares Randomized Quicksort with Deterministic Quicksort usin
 - `hash_table.py` - Implements a hash table using separate chaining and a deterministic polynomial hash function.
 - `performance_test.py` - Empirically compares Randomized and Deterministic Quicksort.
 - `README.md` - Provides project information, execution instructions, and a summary of findings.
-- `Assignment3_Final_Rachana_Peddi.docx` - Contains the theoretical analysis, empirical results, and discussion.
+- `Assignment-3.pdf` - Contains the theoretical analysis, empirical results, and discussion.
 
 ## Requirements
 
